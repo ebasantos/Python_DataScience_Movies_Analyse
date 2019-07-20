@@ -1,4 +1,4 @@
-# Data Analysw with Python 
+# Data Analyse with Python 
 
 ## Description
 with two datasets, we will studing the ratings of movies.
